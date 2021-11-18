@@ -1,7 +1,7 @@
 # FaceQgen
-FaceQgen: Quality Assessment for Face Recognition Based on GANs
+FaceQgen: Semi-Supervised Deep Learning for Face Image Quality Assessment
 
-This repository is based on the paper:  <a href="https://arxiv.org/abs/1904.01740" rel="nofollow">"Quality Assessment for Face Recognition Based on GANs: FaceQgen"</a>.
+This repository is based on the paper:  <a href="https://arxiv.org/abs/1904.01740" rel="nofollow">"FaceQgen: Semi-Supervised Deep Learning for Face Image Quality Assessment" presented in the IEEE International Conference on Automatic Face and Gesture Recognition 2021</a>.
 
 
 FaceQgen is a a face quality assessment method based on GANs capable of inferring quality directly from face images. 
